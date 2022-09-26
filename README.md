@@ -14,10 +14,10 @@
 
 <h3 align="left">Follow Me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mahmoud-yousef-13284020b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-yousef-13284020b" height="30" width="40" /></a>
-<a href="https://fb.com/mahmoud.y0usef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoud.y0usef" height="30" width="40" /></a>
-<a href="https://www.behance.net/engmahmoudyousef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="engmahmoudyousef" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCCZ8FjJrutdQb0xlsTDkCyg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="engmahmoudyousef" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahmoud-yousef-13284020b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-yousef-13284020b" height="30" width="40" /></a>
+<a href="https://fb.com/mahmoud.y0usef" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoud.y0usef" height="30" width="40" /></a>
+<a href="https://www.behance.net/engmahmoudyousef" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="engmahmoudyousef" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCCZ8FjJrutdQb0xlsTDkCyg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="engmahmoudyousef" height="30" width="40" /></a>
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud-y0usef&theme=github_dark)
