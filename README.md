@@ -11,7 +11,8 @@
 - 💬 Ask me about **Full Stack Dveloper**
 
 - 📫 How to reach me **mahmoudyousef59@outlook.com**
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud-y0usef&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-y0usef" /> </p>
+
 
 <h3 align="left">Follow Me:</h3>
 <p align="left">
@@ -30,3 +31,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahmoud-y0usef&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahmoud-y0usef&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahmoud-y0usef&theme=github_dark&utcOffset=8)
+
+
