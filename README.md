@@ -2,7 +2,6 @@
 <a href="https://github.com/mahmoud-y0usef"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45F70C&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahmoud+Yousef;Software+Engineer;Full+Stack+Developer;Happy+Coding" alt="Typing SVG" /></a>
 </div>
 
-<img width="100%" src="https://f.top4top.io/p_24604g00a1.png">
 
 - 🌐 my site **https://www.mahmoudyousef.com**
 
