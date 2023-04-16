@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mahmoudyousef59@outlook.com**
 
-- 📋 [MY CV](tiny.one/Mahmoud-Yousef)
+- 📋 [MY CV](https://drive.google.com/file/d/1BYp1WOEfjLrdZObxEkCyGmBsHQvltVaj/view?fbclid=IwAR3wRs97aVZ90ockEgfqArmCUVn3R_H42pPAGy8H7phHvvp2etRfmCzEx8U)
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud-y0usef&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-y0usef" /> </p>
 <!-- - <a href="https://app.daily.dev/mahmoud_y0usef"><img src="https://api.daily.dev/devcards/a1eb3c4deb664f0788da6ac1c84f2a87.png?r=y6s" width="400" alt="Mahmoud Yousef's Dev Card"/></a> -->
 
