@@ -5,8 +5,6 @@
 
 - 🌐 my site **https://www.mahmoudyousef.com**
 
-- 🔭 I’m currently working on **egypt studio**
-
 - 🌱 I’m currently learning **computer scince**
 
 - 💬 Ask me about **Full Stack Dveloper**
