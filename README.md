@@ -5,7 +5,7 @@
 
 - 🌐 my site **https://www.mahmoudyousef.com**
 
-- 🌱 I’m currently learning **computer scince**
+- 🌱 I’m currently learning **cyber security**
 
 - 💬 Ask me about **Full Stack Dveloper**
 
