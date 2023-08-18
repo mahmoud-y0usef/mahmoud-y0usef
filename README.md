@@ -6,6 +6,8 @@
 - 🌐 my site **https://www.mahmoudyousef.com**
 
 - 🌱 I’m currently learning **cyber security**
+  
+-🌱 I’m currently working **egypt studio** 
 
 - 💬 Ask me about **Full Stack Dveloper**
 
