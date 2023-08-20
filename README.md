@@ -1,6 +1,4 @@
-<div align="center">
-<a href='https://github.com/mahmoud-y0usef'><img src='https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45F70C&width=435&lines=start "Mahmoud Yousef.exe";Hi+%F0%9F%91%8B%2C+Iam+Mahmoud+Yousef;Cyber+Security+Student;Happy+Hacker!' alt="Typing SVG" /></a>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45F70C&width=435&lines=start "Mahmoud Yousef.exe";Hi+%F0%9F%91%8B%2C+Iam+Mahmoud+Yousef;Cyber+Security+Student;Happy+Hacker!)](https://github.com/mahmoud-y0usef)
 
 
 - 🌐 my site **https://www.mahmoudyousef.com**
