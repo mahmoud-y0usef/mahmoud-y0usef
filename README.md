@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45F70C&width=435&lines=start "Mahmoud Yousef.exe";Hi+%F0%9F%91%8B%2C+Iam+Mahmoud+Yousef;Cyber+Security+Student;Happy+Hacker!)](https://github.com/mahmoud-y0usef)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=983&color=2EF721&background=000000&center=true&multiline=true&width=557&height=105&lines=start+%22Mahmoud+Yousef.exe%22;i'm+Mahmoud+Yousef+Cyber+Security+Student;happy+hacker+!)](https://git.io/typing-svg)
 
 
 - 🌐 my site **https://www.mahmoudyousef.com**
