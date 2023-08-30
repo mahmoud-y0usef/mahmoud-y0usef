@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **cyber security**
 
-- 💬 Ask me about **Full Stack Dveloper**
+- 💬 Ask me about **software engineer**
 
 - 📫 How to reach me **mahmoudyousef59@outlook.com**
 
