@@ -1,9 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=983&color=2EF721&background=000000&center=true&multiline=true&width=557&height=105&lines=start+%22Mahmoud+Yousef.exe%22;i'm+Mahmoud+Yousef+Cyber+Security+Student;happy+hacker+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=983&color=2EF721&background=000000&center=true&multiline=true&width=557&height=105&lines=start+%22Mahmoud+Yousef.exe%22;i'm+Mahmoud+Yousef+software+engineer;happy+coder+!)](https://git.io/typing-svg)
 
 
-- 🌐 my site **https://www.mahmoudyousef.com**
-
-- 🌱 I’m currently learning **cyber security**
+- 🌐 my portfolio **https://www.mahmoudyousef.com**
 
 - 💬 Ask me about **software engineer**
 
